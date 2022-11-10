@@ -29,7 +29,6 @@ def print_stats(c,eggs):
     b=b+1
     print("Chicken # ",b,"is the champ with ",a,"eggs.")
     d = eggs.count(a)
-    #g = g - 1
     print("There are ",d,"other chickens that are joint champions.")
     
 def main():
